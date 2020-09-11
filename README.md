@@ -11,7 +11,6 @@
   <br/>
 
   <img alt="built with love" src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img alt="gluten free" src="https://forthebadge.com/images/badges/gluten-free.svg"/>
 
 </p>
 </div>
